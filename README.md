@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 
 Hello, I'm a Senior Research Associate in the [NLIP Group](https://www.cl.cam.ac.uk/research/nl/) & [ALTA Institute](http://www.wiki.cl.cam.ac.uk/clwiki/NaturalLanguage/ALTA), based in the [Computer Laboratory](https://www.cst.cam.ac.uk) at the [University of Cambridge](https://www.cam.ac.uk), U.K. You can find out more about my research, teaching and outreach activities by exploring my repositories, my [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=2M1Jo3sAAAAJ) profile, my [webpage](https://www.cl.cam.ac.uk/~apc38) and [Twitter](https://twitter.com/cainesap) feed.
 
+![](https://github.com/cainesap/cainesap/blob/master/ralph.gif)
